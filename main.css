@@ -27,10 +27,10 @@ div {
 }
 
 #blue { /* this selects any elements with the red id */
-  border-top-color: #f00;
+  border-top-color: #06f;
 }
 
-#red { /* this selects any elements with the red id */
+#indigo { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
 
