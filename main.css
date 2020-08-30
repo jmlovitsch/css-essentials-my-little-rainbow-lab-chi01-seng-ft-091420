@@ -18,11 +18,11 @@ div {
   border-top-color: #ffa500;
 }
 
-#red { /* this selects any elements with the red id */
-  border-top-color: #f00;
+#yellow { /* this selects any elements with the red id */
+  border-top-color: #ff0;
 }
 
-#red { /* this selects any elements with the red id */
+#green { /* this selects any elements with the red id */
   border-top-color: #f00;
 }
 
